@@ -1,3 +1,12 @@
+# Projet Site de boxe Hem
+
+Dans ce projet, vous retrouverai la creation d'un site de boxe.
+
+## TO DO
+- Envoie de mails automatisés
+- Finir la presentation du site
+- Commencer la partie blog
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

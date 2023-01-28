@@ -143,7 +143,7 @@ export default function ContacteUs() {
               message.length <= minMessage
                 ? `Il manque ${
                     minMessage - message.length
-                  } lettres pour l'envoie`
+                  } lettres pour l'envoi`
                 : ""
             }
             value={message}
